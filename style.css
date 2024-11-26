@@ -7,6 +7,7 @@
     --cor-terceira:#758694;
     --font:"Nunito Sans", sans-serif;
     --font-2:"Oswald", sans-serif;
+    --destaque: rgb(56, 187, 56);
 
 }
 
@@ -85,4 +86,11 @@ span{
     font-weight: bold;
     color: rgb(56, 187, 56);
     font-family:cursive;
+}
+
+
+.grafico{
+    margin-top: 3rem;
+    
+
 }
